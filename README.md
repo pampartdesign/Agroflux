@@ -1,2 +1,2 @@
 # Agroflux
-Smart FArming
+Smart Farming
