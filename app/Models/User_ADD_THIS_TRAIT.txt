@@ -1,0 +1,7 @@
+In app/Models/User.php add:
+use App\Models\Concerns\HasTenantMemberships;
+
+and in the class:
+use HasTenantMemberships;
+
+No other changes required.
